@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f1fb1d0b2fbe544ebf96fe3788a7960, type: 3}
+  m_Name: ff5fbd51-625b-4b1e-937e-913b3795e652
+  m_EditorClassIdentifier: 
+  id: ff5fbd51-625b-4b1e-937e-913b3795e652
+  material: {fileID: 2100000, guid: f2fa309296149c544ad408b920c2050c, type: 2}
+  autoBoundaryMode: 2
+  threshold: 4
+  fadeRange: 2
+  boundaryType: 1
